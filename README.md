@@ -8,11 +8,11 @@ Hey internet user!  I'm Chris, a full-stack developer from Nigeria who builds we
 
 Speaking of books, when I'm not wrangling code or hitting the books at Bamidele Olumilua University of Education, Science and Technology (in Ekiti State, Nigeria!), you'll probably find me buried in a good read. There's just something about getting lost in a new world that fuels my creativity for the next one I build digitally.
 
-When I'm not immersed in the world of programming or academics, you'll find me immersed in the wonders of reading books.
+# The Future
 
-As I stand at the intersection of my past achievements and future endeavors, here's to embracing the uncharted territories and embarking on the thrilling journey that lies ahead! 🍻  
+The future? It's a wide-open adventure, and I'm grabbing my metaphorical backpack (and laptop) to explore it.  I'm always up for collaborating on interesting projects, so if you have an idea brewing, let's chat!  (Just don't ask about my secret project – that's under lock and key for now. )
 
-`Below, you'll discover my GitHub stats, skills and a selection of my top projects, thoughtfully pinned for your exploration`
+# Bonus
 
 * 🌍  Based in Nigeria 🇳🇬 (GMT+1 timezone for all your coding needs!)
 * ✉️  Reach out: [hi.chrisdev@gmail.com](mailto:hi.chrisdev@gmail.com)
