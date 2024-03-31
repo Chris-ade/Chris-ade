@@ -4,10 +4,9 @@ Hi👋 I am Chris Adebiyi
 Full-stack Developer && Software Engineer
 -----------------------------------------
 
+Hey internet user!  I'm Chris, a full-stack developer from Nigeria who builds websites and web apps that can handle anything you throw at them.  (Think of me as the architect AND the interior designer of the digital world.)  Coding's more than a job for me, it's a daily obsession – like that book you just can't put down (except mine involves way more caffeine). ☕️
 
-Hi there, Citizen of the internet! I'm Chris, a full-stack developer from Nigeria with a passion for creating scalable frontend and backend systems for websites and web apps. Coding isn't just a job for me; it's a daily passion and with 5+ years of experience in the field, I bring to life every project I work on.
-
-In the outside world, I'm a student studying Computer Science at Bamidele Olumilua University of Education, Science and Technology in Ekiti State, Nigeria. Balancing the intricacies of code with the school activities keeps my days vibrant and full of diverse challenges.
+Speaking of books, when I'm not wrangling code or hitting the books at Bamidele Olumilua University of Education, Science and Technology (in Ekiti State, Nigeria!), you'll probably find me buried in a good read. There's just something about getting lost in a new world that fuels my creativity for the next one I build digitally.
 
 When I'm not immersed in the world of programming or academics, you'll find me immersed in the wonders of reading books.
 
