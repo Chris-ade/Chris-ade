@@ -15,11 +15,11 @@ As I stand at the intersection of my past achievements and future endeavors, her
 
 `Below, you'll discover my GitHub stats, skills and a selection of my top projects, thoughtfully pinned for your exploration`
 
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [hi.chrisdev@gmail.com](mailto:hi.chrisdev@gmail.com)
+* 🌍  Based in Nigeria 🇳🇬 (GMT+1 timezone for all your coding needs!)
+* ✉️  Reach out: [hi.chrisdev@gmail.com](mailto:hi.chrisdev@gmail.com)
 * 🧠  I'm currently working on a personal project I'm not disclosing for now.
-* 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I'm a Libran ♎ 🫣
+* 🤝  Open to Collaborations! (Especially if they involve cool tech and even cooler ideas.)
+* ⚡  ♎ Libran, but don't hold that against me.
 
 ### Skills
 
