@@ -18,7 +18,7 @@ The future? It's a wide-open adventure, and I'm grabbing my metaphorical backpac
 * ✉️  Reach out: [hi.chrisdev@gmail.com](mailto:hi.chrisdev@gmail.com)
 * 🧠  I'm currently working on a personal project I'm not disclosing for now.
 * 🤝  Open to Collaborations! (Especially if they involve cool tech and even cooler ideas.)
-* ⚡  ♎ Libran, but don't hold that against me.
+* ♎ Libran, but don't hold that against me.
 
 ### Skills
 
