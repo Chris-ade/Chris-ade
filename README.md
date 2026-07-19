@@ -6,11 +6,9 @@ Full-stack Developer && Software Engineer
 
 Hey internet user!  I'm Chris, a full-stack developer from Nigeria who builds websites and web apps that can handle anything you throw at them.  (Think of me as the architect AND the interior designer of the digital world.)  Coding's more than a job for me, it's a daily obsession – like that book you just can't put down (except mine involves way more caffeine). ☕️
 
-# Bonus
-
 * 🌍  Based in Nigeria 🇳🇬 (GMT+1 timezone for all your coding needs!)
 * ✉️  Reach out: [hi.chrisdev@gmail.com](mailto:hi.chrisdev@gmail.com)
-* 🤝  Open to Collaborations! (Especially if they involve cool tech and even cooler ideas.)
+* 🤝  Open to collaborations, opportunities and gigs! (Especially if they involve cool tech and even cooler ideas.)
 * ♎ Libran, but don't hold that against me.
 
 ### Skills
