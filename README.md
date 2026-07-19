@@ -6,17 +6,10 @@ Full-stack Developer && Software Engineer
 
 Hey internet user!  I'm Chris, a full-stack developer from Nigeria who builds websites and web apps that can handle anything you throw at them.  (Think of me as the architect AND the interior designer of the digital world.)  Coding's more than a job for me, it's a daily obsession – like that book you just can't put down (except mine involves way more caffeine). ☕️
 
-Speaking of books, when I'm not wrangling code or hitting the books at Bamidele Olumilua University of Education, Science and Technology (in Ekiti State, Nigeria!), you'll probably find me buried in a good read. There's just something about getting lost in a new world that fuels my creativity for the next one I build digitally.
-
-# The Future
-
-The future? It's a wide-open adventure, and I'm grabbing my metaphorical backpack (and laptop) to explore it.  I'm always up for collaborating on interesting projects, so if you have an idea brewing, let's chat!  (Just don't ask about my secret project – that's under lock and key for now. )
-
 # Bonus
 
 * 🌍  Based in Nigeria 🇳🇬 (GMT+1 timezone for all your coding needs!)
 * ✉️  Reach out: [hi.chrisdev@gmail.com](mailto:hi.chrisdev@gmail.com)
-* 🧠  I'm currently working on a personal project I'm not disclosing for now.
 * 🤝  Open to Collaborations! (Especially if they involve cool tech and even cooler ideas.)
 * ♎ Libran, but don't hold that against me.
 
